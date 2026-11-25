@@ -35,7 +35,7 @@ Community management · Création de contenu · Stratégie réseaux sociaux · G
 ## 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-precieuxmak.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://precieuxmak.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Précieux_Mak-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precieux-mak-3a9681363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Précieux_Mak-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precieuxmak/)
 [![Instagram](https://img.shields.io/badge/Instagram-@precieuxmak-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/precieuxmak/)
 [![X](https://img.shields.io/badge/X-@precieuxmakcg-000000?style=flat&logo=x&logoColor=white)](https://x.com/precieuxmakcg)
 [![Email](https://img.shields.io/badge/Email-precieuxmak678@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:precieuxmak678@gmail.com)
